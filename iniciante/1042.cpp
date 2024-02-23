@@ -1,4 +1,4 @@
-// SimplesSort
+//Sort Simples
 #include <iostream>
 
 using namespace std;
